@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="gyousei">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="entry" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="entry">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="gyou"/>
+        <xsd:element ref="on"/>
+        <xsd:element ref="gyouseiku"/>
+        <xsd:element ref="kana"/>
+        <xsd:element ref="shougakkou"/>
+        <xsd:element ref="tyuugakkou"/>
+        <xsd:element ref="moerugomi"/>
+        <xsd:element ref="namagomi"/>
+        <xsd:element ref="haipura"/>
+        <xsd:element ref="moenaigomi"/>
+        <xsd:element ref="fuusui1"/>
+        <xsd:element ref="fuusui2"/>
+        <xsd:element ref="jisin"/>
+        <xsd:element ref="keyword"/>
+
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+    <xsd:element name="gyou"       type="xsd:string"/>
+    <xsd:element name="on"         type="xsd:string"/>
+    <xsd:element name="gyouseiku"  type="xsd:string"/>
+    <xsd:element name="kana"       type="xsd:string"/>
+    <xsd:element name="shougakkou" type="xsd:string"/>
+    <xsd:element name="tyuugakkou" type="xsd:string"/>
+    <xsd:element name="moerugomi"  type="xsd:string"/>
+    <xsd:element name="namagomi"   type="xsd:string"/>
+    <xsd:element name="haipura"    type="xsd:string"/>
+    <xsd:element name="moenaigomi" type="xsd:string"/>
+    <xsd:element name="fuusui1"    type="xsd:string"/>
+    <xsd:element name="fuusui2"    type="xsd:string"/>
+    <xsd:element name="jisin"      type="xsd:string"/>
+    <xsd:element name="keyword"    type="xsd:string"/>
+</xsd:schema>

@@ -1,0 +1,52 @@
+﻿#
+# ◆１カラム目が # の行はコメントとなる．
+#   【注意】HTMLのコメント <!-- ... --> と誤解しないこと．
+# ◆データ定義の形式は
+#     キー:
+#       文字列データ
+# ◆１カラム目から始まりコロンで終る行は後続する文字列データのキーと解釈される．
+# ◆文字列データは１カラム目が半角スペースかタブで始まらなければならない．
+# ◆文字列データ内の %d はループカウンターに置き換えられる．
+# ◆文字列データ内の ${xyz} は XML の対応する文字列に置き換えられる．
+#
+
+# gomi -- mySel
+mySel:
+  ${gyousei.entry[%d].gyou}
+
+# gomi -- myList
+myList:
+  <li data-filtertext=${gyousei.entry[%d].keyword}>
+    <a href='#no%d'>${gyousei.entry[%d].gyouseiku}</a>
+  </li>
+
+# gomi -- myContents
+myContents:
+  <div data-role='page' id='no%d' data-url='no%d' data-add-back-btn='true' data-back-btn-text="BACK">
+    <div data-role='header' align='center' data-theme="c">
+ 		<image src="img/title5.png" height="38px">
+     </div>
+    <div data-role='content'>
+
+
+# ▼▼▼▼▼以下を変更してください。<h4>の中の<br>は改行です。▼▼▼▼▼
+      <h3>行政区名：　${gyousei.entry[%d].gyouseiku}</h3>
+      <h3>フリガナ：　${gyousei.entry[%d].kana}</h3>
+      <h3>小学校区：　${gyousei.entry[%d].shougakkou}</h3>
+      <h3>中学校区：　${gyousei.entry[%d].tyuugakkou}</h3>
+      <h3>燃えるごみの日：　${gyousei.entry[%d].moerugomi}</h3>
+      <h3>生ごみの日：　${gyousei.entry[%d].namagomi}</h3>
+      <h3>廃プラスチックの日：　${gyousei.entry[%d].haipura}</h3>
+      <h3>燃えないごみの日：　${gyousei.entry[%d].moenaigomi}</h3>
+      <h3>風水害時（1次避難場所）：　${gyousei.entry[%d].fuusui1}</h3>
+      <h3>風水害時（2次避難場所）：　${gyousei.entry[%d].fuusui2}</h3>
+      <h3>地震災害時：　${gyousei.entry[%d].jisin}</h3>
+
+      <h3><br>○わからないことがあったら市役所へご連絡ください。</h3>
+      <h3>　電話番号：0964－22－1111</h3>
+
+# ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+    </div>
+    <div data-role='footer' data-position='fixed' align='center'>
+    </div>
+  </div>

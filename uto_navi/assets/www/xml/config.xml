@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<busstop>
+	<entry>
+		<id>type_bus</id>
+		<name>バス停情報</name>
+		<latitude/>
+		<longitude/>
+		<image/>
+		<image_width/>
+		<image_height/>
+		<message/>
+	</entry>
+	<entry>
+		<id>utocityn</id>
+		<name>宇土シティモール北口</name>
+		<latitude>32.683832</latitude>
+		<longitude>130.668452</longitude>
+		<image>img/utocityn.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:35 11:20 13:35 15:20 17:05&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:00 13:00 16:30&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:45 14:45&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>utocitys</id>
+		<name>宇土シティモール南口</name>
+		<latitude>32.682017</latitude>
+		<longitude>130.668595</longitude>
+		<image>img/utocitys.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:37 11:22 13:37 15:22 17:07&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:02 13:02 16:32&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:47 14:47&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>undokouen</id>
+		<name>宇土市運動公園前</name>
+		<latitude>32.682972</latitude>
+		<longitude>130.664552</longitude>
+		<image>img/undokouen.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:40 10:19 11:25 12:04 13:40 14:19 15:25 16:04 17:10 17:49&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:05 13:05 16:35&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:50 14:50&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>asahimachi</id>
+		<name>旭町</name>
+		<latitude>32.685311</latitude>
+		<longitude>130.665258</longitude>
+		<image>img/asahimachi.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:41 10:18 11:26 12:03 13:41 14:18 15:26 16:03 17:11 17:48&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:06 13:06 16:36&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:13 15:13&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>ishikoujimachi</id>
+		<name>石小路町</name>
+		<latitude>32.688514</latitude>
+		<longitude>130.663179</longitude>
+		<image>img/ishikoujimachi.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:43 10:16 11:28 12:01 13:43 14:16 15:28 16:01 17:13 17:46&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>goudouchoshamae</id>
+		<name>宇土合同庁舎前</name>
+		<latitude>32.68792</latitude>
+		<longitude>130.658673</longitude>
+		<image>img/goudouchoshamae.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:44 10:15 11:29 12:00 13:44 14:15 15:29 16:00 17:14 17:45&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>uto3</id>
+		<name>宇土三丁目</name>
+		<latitude>32.686372</latitude>
+		<longitude>130.659362</longitude>
+		<image>img/uto3.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:48 10:11 11:33 11:56 13:48 14:11 15:33 15:56 17:18 17:41&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:16 13:16 16:46&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:03 15:03&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>shiminkaikanmae</id>
+		<name>宇土市民会館前</name>
+		<latitude>32.684277</latitude>
+		<longitude>130.66161</longitude>
+		<image>img/shiminkaikanmae.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:50 10:10 11:35 11:55 13:50 14:10 15:35 15:55 17:20 17:40&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>hokencentermae</id>
+		<name>宇土市保健センター前</name>
+		<latitude>32.680875</latitude>
+		<longitude>130.661927</longitude>
+		<image>img/hokencentermae.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:52 10:08 11:37 11:53 13:52 14:08 15:37 15:53 17:22 17:38&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:29 13:29 16:59&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:50 14:50&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>honmachi1</id>
+		<name>宇土本町一丁目・宇土高校入口</name>
+		<latitude>32.681922</latitude>
+		<longitude>130.658139</longitude>
+		<image>img/honmachi1.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:53 10:06 11:38 11:51 13:53 14:06 15:38 15:51 17:23 17:36&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>honmachi2</id>
+		<name>宇土本町二丁目</name>
+		<latitude>32.683816</latitude>
+		<longitude>130.659395</longitude>
+		<image>img/honmachi2.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:54 10:05 11:39 11:50 13:54 14:05 15:39 15:50 17:24 17:35&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>honmachi5</id>
+		<name>宇土本町五丁目</name>
+		<latitude>32.686191</latitude>
+		<longitude>130.662307</longitude>
+		<image>img/honmachi5.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:56 10:04 11:41 11:49 13:56 14:04 15:41 15:49 17:26 17:34&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:14 13:14 16:44&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:05 15:05&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>honmachi6</id>
+		<name>宇土本町六丁目</name>
+		<latitude>32.688284</latitude>
+		<longitude>130.663989</longitude>
+		<image>img/honmachi6.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:57 10:03 11:42 11:48 13:57 14:03 15:42 15:48 17:27 17:33&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:07 9:13 13:07 13:14 16:37 16:43&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:06 11:12 15:06 15:12&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>jounoura</id>
+		<name>城の浦</name>
+		<latitude>32.689681</latitude>
+		<longitude>130.6665</longitude>
+		<image>img/jounoura.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:58 11:43 13:58 15:43 17:28&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:08 13:08 16:38&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:07 15:07&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>utoekimae</id>
+		<name>宇土駅前</name>
+		<latitude>32.694121</latitude>
+		<longitude>130.66783</longitude>
+		<image>img/utoekimae.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;9:59 11:44 13:59 15:44 17:29&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:10 13:10 16:40&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:08 15:08&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>ekimaedanchi</id>
+		<name>駅前団地</name>
+		<latitude>32.692248</latitude>
+		<longitude>130.666009</longitude>
+		<image>img/ekimaedanchi.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;10:00 11:45 14:00 15:45 17:30&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:11 13:11 16:41&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:09 15:09&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>nishijounoura</id>
+		<name>西城の浦</name>
+		<latitude>32.68981</latitude>
+		<longitude>130.664998</longitude>
+		<image>img/nishijounoura.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="in-route"&gt;循環線内回り&lt;/h2&gt;
+&lt;p class="in-route"&gt;10:02 11:47 14:02 15:47 17:32&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:12 13:12 16:42&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;11:11 15:11&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>sakaemachi</id>
+		<name>栄町</name>
+		<latitude>32.685749</latitude>
+		<longitude>130.655428</longitude>
+		<image>img/sakaemachi.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:21 13:21 16:51&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:58 14:58&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>utosyougakkoumae</id>
+		<name>宇土小学校前</name>
+		<latitude>32.684789</latitude>
+		<longitude>130.652845</longitude>
+		<image>img/utosyougakkoumae.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:22 13:22 16:52&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:57 14:57&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>kojoumachi</id>
+		<name>古城町</name>
+		<latitude>32.68324</latitude>
+		<longitude>130.649765</longitude>
+		<image>img/kojoumachi.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:23 13:23 16:53&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:56 14:56&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>utokoukou3groundmae</id>
+		<name>宇土高校第３グラウンド前</name>
+		<latitude>32.681193</latitude>
+		<longitude>130.647936</longitude>
+		<image>img/utokoukou3groundmae.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:24 13:24 16:54&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:55 14:55&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>sinmemachi</id>
+		<name>神馬・神合町</name>
+		<latitude>32.678904</latitude>
+		<longitude>130.650685</longitude>
+		<image>img/sinmemachi.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:25 13:25 16:55&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:54 14:54&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>jou</id>
+		<name>城・神馬団地入口</name>
+		<latitude>32.676671</latitude>
+		<longitude>130.655717</longitude>
+		<image>img/jou.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:26 13:26 16:56&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:53 14:53&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>irichiminamikouenmae</id>
+		<name>入地南公園前</name>
+		<latitude>32.67794</latitude>
+		<longitude>130.658102</longitude>
+		<image>img/irichiminamikouenmae.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:27 13:27 16:57&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:52 14:52&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>irichidanchi</id>
+		<name>入地団地</name>
+		<latitude>32.679202</latitude>
+		<longitude>130.659765</longitude>
+		<image>img/irichidanchi.png</image>
+		<image_width>85</image_width>
+		<image_height>36</image_height>
+		<message>&lt;h2 class="out-route"&gt;循環線外回りA&lt;/h2&gt;
+&lt;p class="out-route"&gt;9:27 13:27 16:57&lt;/p&gt;
+&lt;h2 class="out-route"&gt;循環線外回りB&lt;/h2&gt;
+&lt;p class="out-route"&gt;10:52 14:52&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>type_hospital</id>
+		<name>医療機関</name>
+		<latitude/>
+		<longitude/>
+		<image/>
+		<image_width/>
+		<image_height/>
+		<message/>
+	</entry>
+	<entry>
+		<id>h_ishigaki</id>
+		<name>石垣内科小児科医院</name>
+		<latitude>32.6865599</latitude>
+		<longitude>130.659541</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・小児科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市浦田町26-4&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-1234&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_ueno</id>
+		<name>上野小児科医院</name>
+		<latitude>32.6895124</latitude>
+		<longitude>130.665358</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;小児科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市城之浦196&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0324&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_chuou</id>
+		<name>宇土中央クリニック</name>
+		<latitude>32.6864624</latitude>
+		<longitude>130.6590476</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・外科・循環器科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市浦田町136&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-1600&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_ozaki</id>
+		<name>尾崎医院</name>
+		<latitude>32.6826432</latitude>
+		<longitude>130.6588707</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・循環器科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市本町1丁目8&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0241&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_kanamori</id>
+		<name>金森医院</name>
+		<latitude>32.6880576</latitude>
+		<longitude>130.6643531</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・胃腸科・外科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市本町6丁目5&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0017&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_kusaba</id>
+		<name>草場医院</name>
+		<latitude>32.6927672</latitude>
+		<longitude>130.6651693</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;皮膚科・耳鼻咽喉科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市松原町61&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-5851&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_takahama</id>
+		<name>高浜医院</name>
+		<latitude>32.6914106</latitude>
+		<longitude>130.6664103</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;眼科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市城之浦町67&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0108&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_tayama</id>
+		<name>田山産科婦人科医院</name>
+		<latitude>32.6793343</latitude>
+		<longitude>130.6601684</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;産科・婦人科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市入地町161-2&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-5522&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_nanakawa</id>
+		<name>七川外科医院</name>
+		<latitude>32.6867195</latitude>
+		<longitude>130.6574808</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;外科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市浦田町140&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0555&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_honda</id>
+		<name>本多胃腸科内科医院</name>
+		<latitude>32.6860622</latitude>
+		<longitude>130.6576032</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・胃腸科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市浦田町313&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-3692&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_fukuda</id>
+		<name>福田医院</name>
+		<latitude>32.6845854</latitude>
+		<longitude>130.6594632</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・外科・小児科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市本町3丁目64&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0002&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_murakami</id>
+		<name>むらかみ眼科クリニック</name>
+		<latitude>32.6824603</latitude>
+		<longitude>130.6642906</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;眼科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市南段原町11-6&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-6600&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_moroga</id>
+		<name>もろが整形外科医院</name>
+		<latitude>32.6873113</latitude>
+		<longitude>130.6644305</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;整形外科・リウマチ科・リハビリテーション科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市旭町144-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-2341&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_yamamoto</id>
+		<name>やまもと泌尿器科クリニック</name>
+		<latitude>32.6802992</latitude>
+		<longitude>130.6608304</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;泌尿器科・性病科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市南段原79-4&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-58-1411&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_yoshikubo</id>
+		<name>吉窪内科放射線科医院</name>
+		<latitude>32.6782024</latitude>
+		<longitude>130.6615539</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・放射線科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市入地町270-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-3203&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_yoshida</id>
+		<name>吉田耳鼻咽喉科医院</name>
+		<latitude>32.6863028</latitude>
+		<longitude>130.6582417</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;耳鼻咽喉科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市浦田町129&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0873&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_yoshino</id>
+		<name>吉野整形外科</name>
+		<latitude>32.6905405</latitude>
+		<longitude>130.6511638</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;整形外科・リュウマチ科・リハビリテーション科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市高柳町206-6&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-6000&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_matsuda</id>
+		<name>松田内科循環器科クリニック</name>
+		<latitude>32.6938763</latitude>
+		<longitude>130.6677025</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・循環器科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市三拾町144-2&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-6555&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_hatade</id>
+		<name>幡手耳鼻咽喉科クリニック</name>
+		<latitude>32.681502</latitude>
+		<longitude>130.6629531</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;耳鼻咽喉科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市南段原26-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-24-1187&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_kumamoto</id>
+		<name>くまもと心療病院</name>
+		<latitude>32.6703443</latitude>
+		<longitude>130.6712067</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;精神科・神経科・内科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市松山町1901&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-1081&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_kondou</id>
+		<name>近藤クリニック</name>
+		<latitude>32.6660657</latitude>
+		<longitude>130.6706835</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;胃腸科・肛門科・外科・内科・リハビリテーション科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市松山町4400-2&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-5558&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>h_midorikawa</id>
+		<name>みどりかわクリニック</name>
+		<latitude>32.6955594</latitude>
+		<longitude>130.6259235</longitude>
+		<image>img/hospital.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;内科・小児科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市野鶴町340-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-1171&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>type_dental</id>
+		<name>医療機関（歯科）</name>
+		<latitude/>
+		<longitude/>
+		<image/>
+		<image_width/>
+		<image_height/>
+		<message/>
+	</entry>
+	<entry>
+		<id>d_kubota</id>
+		<name>久保田歯科医院</name>
+		<latitude>32.6816349</latitude>
+		<longitude>130.6627152</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市南段原31-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-2830&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_urata</id>
+		<name>浦田歯科医院</name>
+		<latitude>32.6834734</latitude>
+		<longitude>130.6603526</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市門内町21-6&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-0711&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_tanaka</id>
+		<name>田中歯科医院</name>
+		<latitude>32.6822487</latitude>
+		<longitude>130.6553091</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市定府町24-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-3788&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_nakamura</id>
+		<name>中村歯科医院</name>
+		<latitude>32.6871923</latitude>
+		<longitude>130.664756</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市旭町146&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-3721&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_matsumoto</id>
+		<name>松本歯科医院</name>
+		<latitude>32.6871614</latitude>
+		<longitude>130.6634071</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市本町5丁目2&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0275&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_murakami</id>
+		<name>村上歯科医院</name>
+		<latitude>32.6860167</latitude>
+		<longitude>130.6555207</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市栄町164&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-3639&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_morihajime</id>
+		<name>森一歯科・矯正歯科医院</name>
+		<latitude>32.6911362</latitude>
+		<longitude>130.666879</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市城之浦108-11&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-0441&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_yagi</id>
+		<name>八木歯科医院</name>
+		<latitude>32.6895962</latitude>
+		<longitude>130.6537217</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市高柳町27-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-4182&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_peal</id>
+		<name>パール歯科クリニック宇土</name>
+		<latitude>32.6887573</latitude>
+		<longitude>130.6548692</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市高柳町20-9&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-53-9898&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_sugimoto</id>
+		<name>すぎもと歯科</name>
+		<latitude>32.6821824</latitude>
+		<longitude>130.6847163</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市岩古曽町1196-3&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-22-5432&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_mori</id>
+		<name>森歯科医院</name>
+		<latitude>32.6765622</latitude>
+		<longitude>130.6812351</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市古保里町443&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-23-5155&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_hiratomi</id>
+		<name>ひらとみ歯科医院</name>
+		<latitude>32.6979601</latitude>
+		<longitude>130.6007562</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市網津町2047-3&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-25-0918&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_aoyama</id>
+		<name>青山歯科医院</name>
+		<latitude>32.6692213</latitude>
+		<longitude>130.5518331</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市下網田町1937-1&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-27-0230&lt;/p&gt;</message>
+	</entry>
+	<entry>
+		<id>d_ouda</id>
+		<name>おうだ歯科医院</name>
+		<latitude>32.6680595</latitude>
+		<longitude>130.5465444</longitude>
+		<image>img/dental.png</image>
+		<image_width>56</image_width>
+		<image_height>42</image_height>
+		<message>&lt;h2&gt;診療科目&lt;/h2&gt;&lt;p class="detail"&gt;歯科&lt;/p&gt;
+&lt;h2&gt;住所&lt;/h2&gt;&lt;p class="detail"&gt;宇土市下網田町2104-8&lt;/p&gt;
+&lt;h2&gt;電話番号&lt;/h2&gt;&lt;p class="detail"&gt;0964-27-1230&lt;/p&gt;</message>
+	</entry>
+</busstop>

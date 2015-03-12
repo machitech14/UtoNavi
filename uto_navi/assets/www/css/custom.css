@@ -1,0 +1,50 @@
+/*--header--*/
+#header .ui-btn-left, #header .ui-btn-right {
+	margin-top:2px;
+}
+ 
+/*--footer--*/
+.ui-footer .ui-title{
+    font-size:13px;
+}
+
+/*--内回りルート--*/
+.in-route{
+	color:blue;
+}
+p.in-route{
+	font-size:x-large;
+}
+
+/*--外回りルート--*/
+.out-route{
+	color:red;
+}
+p.out-route{
+	font-size:x-large;
+}
+
+/* 詳細ページの説明文 */
+p.detail{
+	font-size:large;
+}
+ 
+/*---表示文字数を増やす（全文字表示---
+(ヘッダー,フッター,ボタン,リスト見出し,リンクリスト,リスト詳細部分)---*/
+.ui-header .ui-title,
+.ui-footer .ui-title,
+.ui-btn-inner,
+.ui-li-heading,
+.ui-li .ui-btn-text a.ui-link-inherit,
+.ui-li-desc
+{
+    overflow: visible;
+    white-space: normal;
+}
+ 
+/* ヘッダータイトルの外側余白なし*/
+.ui-header .ui-title
+{
+    margin-left:0%;
+    margin-right:0%;
+}

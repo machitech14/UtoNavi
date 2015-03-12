@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="busstop">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="entry" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="entry">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="id"/>
+        <xsd:element ref="name"/>
+        <xsd:element ref="latitude"/>
+        <xsd:element ref="longitude"/>
+        <xsd:element ref="image"/>
+        <xsd:element ref="image_width"/>
+        <xsd:element ref="image_height"/>
+        <xsd:element ref="message"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="id" type="xsd:string"/>
+  <xsd:element name="name" type="xsd:string"/>
+  <xsd:element name="latitude" type="xsd:integer"/>
+  <xsd:element name="longitude" type="xsd:integer"/>
+  <xsd:element name="image" type="xsd:string"/>
+  <xsd:element name="image_width" type="xsd:integer"/>
+  <xsd:element name="image_height" type="xsd:integer"/>
+  <xsd:element name="message" type="xsd:string"/>
+</xsd:schema>

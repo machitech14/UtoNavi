@@ -1,0 +1,5136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataroot>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アイス枕</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　アイス枕,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アイロン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　アイロン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アイロン台</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋に入らない場合は、粗大ごみ処理券を貼る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　アイロン台,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アコーディオンカーテン</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　アコーディオンカーテン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　油紙</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　油紙,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　雨具　（カッパ）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　雨具　（カッパ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　雨とい</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　雨とい,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　網　（魚網　・　海苔網）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　自己搬入もできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　網　（魚網　・　海苔網）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　網戸、アルミサッシ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　網戸、アルミサッシ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アルミ缶</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　中をすすいで出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　アルミ缶,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アルミコーティング袋</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　アルミコーティング袋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アルミはく、アルミホイル</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　アルミはく、アルミホイル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　あんぜんピン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　あんぜんピン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アンテナ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　アンテナ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>あ</on>
+		<name>　アンプ</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　アンプ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　衣装ケース　（プラスチック製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　中にごみ等を入れない</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　衣装ケース　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　いす　（木製　・　金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　粗大ごみ処理券を貼って出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　いす　（木製　・　金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　板きれ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　１ｃｍ角以下、長さ３０ｃｍ以下のもの　３０ｃｍ以上は燃えないごみに出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　板きれ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　一斗缶</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　一斗缶,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　一輪車</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　一輪車,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　衣類　（古着）</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　まとめて透明袋に入れて出す。綿入り製品、皮革製品は小さく切って、燃えるごみにだす</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　衣類　（古着）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　衣類乾燥機</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　家電リサイクル法対象品目です、家電小売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　衣類乾燥機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　入れ歯　（金属なし）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製の物は、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　入れ歯　（金属なし）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　印鑑　（象牙、プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　ガラス、金属製は、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　印鑑　（象牙、プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　インクカートリッジ</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　ブラザ、キャノン、デル、エプソン、日本ＨＰ、レックスマークの６社の製品以外燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　インクカートリッジ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　インスタントラーメン　（容器）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　紙　マークの付いているものは燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　インスタントラーメン　（容器）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　インスタントラーメン　（かやく　・汁の袋）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身は取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　インスタントラーメン　（かやく　・汁の袋）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>い</on>
+		<name>　インターホン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　インターホン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>う</on>
+		<name>　ウエットティッシュ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ウエットティッシュ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>う</on>
+		<name>　植木の枝葉</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　指定袋に入れて出す　長さは３０ｃｍ以下のもの　３０ｃｍ以上は燃えないごみに出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　植木の枝葉,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>う</on>
+		<name>　植木鉢　（陶磁器製）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製は、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　植木鉢　（陶磁器製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>う</on>
+		<name>　植木用支柱　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　植木用支柱　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>う</on>
+		<name>　浮き輪</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　浮き輪,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>う</on>
+		<name>　羽毛布団</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　羽毛布団,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>う</on>
+		<name>　乳母車</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　折りたたんで、粗大ごみ処理券を貼る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　乳母車,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　エアコン　（室外機含む）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　自己搬入もできません、家電小売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　エアコン　（室外機含む）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　枝類　（剪定）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>直径５ｃｍ以下、長さ３０ｃｍ以下で枝・葉は落とし指定袋に入れて出す。　３０ｃｍ以上は燃えないごみに出す。ただし、多量のときは自己搬入する</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　枝類　（剪定）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　絵の具</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　絵の具,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　ＭＤ　（ディスク）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ＭＤ　（ディスク）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　エレクトーン</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　エレクトーン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　延長コード</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　３０ｃｍ以下に切って、指定袋で出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　延長コード,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　えんぴつ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　えんぴつ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>え</on>
+		<name>　えんぴつ削り　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　えんぴつ削り　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　王冠　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製は、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　王冠　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　応接セット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　応接セット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　オーディオ製品</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　オーディオ製品,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　オーブンレンジ、トースター</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　オーブンレンジ、トースター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　桶　（木　・　プラスチック製））</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製の物は、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　桶　（木　・　プラスチック製））,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　おしゃぶり</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　おしゃぶり,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　お玉　（しゃくし）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製なら燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　お玉　（しゃくし）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　落ち葉　（少量）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　土等は除く</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　落ち葉　（少量）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　斧　（金属部分）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　斧　（金属部分）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　おまる　（プラスチック製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　おまる　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　おむつ、おむつカバー</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　汚物は取り除いてトイレに流して出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　おむつ、おむつカバー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　おもちゃ　（木製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　長さが３０ｃｍ以上は粗大ごみ処理券を貼って燃えないごみに出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　おもちゃ　（木製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　おもちゃ　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　長さが３０ｃｍ以上は粗大ごみ処理券を貼って燃えないごみに出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　おもちゃ　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　折りたたみいす　（パイプいす）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　折りたたみいす　（パイプいす）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　オルガン</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　自己搬入もできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　オルガン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　おろしがね　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製の物は、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　おろしがね　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　おわん　（木　・　プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　木・プラスチック製以外は、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　おわん　（木　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>あ</gyou>
+		<on>お</on>
+		<name>　温度計</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　温度計,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カーテン</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　厚手の物は、３０ｃｍ以下に小さく切って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　カーテン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カーテンレール</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　長さが３０ｃｍ以上は粗大ごみ処理券を貼って燃えないごみに出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　カーテンレール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カーペット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　カーペット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カーボン紙</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　カーボン紙,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　懐中電灯</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　懐中電灯,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　買い物袋　（レジ袋等）</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　買い物袋　（レジ袋等）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カイロ　（使い捨て　・　布製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　カイロ　（使い捨て　・　布製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カイロ　（携帯用　・　金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　カイロ　（携帯用　・　金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　貝殻</name>
+		<kubun>生ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　貝殻,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　鏡</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　鏡,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　かぎ　（鍵）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　かぎ　（鍵）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　学習机　（木製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　学習机　（木製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　額縁　（木製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　ガラスをはずして、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　額縁　（木製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　額縁　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　額縁　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　傘</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　傘,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　菓子等の袋</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身は取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　菓子等の袋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　ガス警報機</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ガス警報機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　ガステーブルコンロ</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>  電池は取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ガステーブルコンロ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　ガスボンベ</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ガスボンベ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　ガス用ゴムホース</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　３０ｃｍ以下に切って、指定袋で出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ガス用ゴムホース,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カセットコンロ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>  ボンベは取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　カセットコンロ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カセットテープ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　カセットテープ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カセットデッキ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　カセットデッキ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カセットボンベ　（卓上）</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　カセットボンベ　（卓上）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カタログ</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　カタログ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　合羽</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　合羽,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　かつら</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　かつら,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カップラーメン　（容器）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　紙　マークの付いているものは燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　カップラーメン　（容器）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カップラーメン　（かやく　・　汁の袋）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身は取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　カップラーメン　（かやく　・　汁の袋）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　金網　（フェンス）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　金網　（フェンス）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　かなづち</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　かなづち,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　かばん</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　かばん,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　花びん　（陶磁器製）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製の物は、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　花びん　（陶磁器製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　かみそり</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　かみそり,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　髪　（髪の毛）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　髪　（髪の毛）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　紙おむつ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　汚物はトイレに流し、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　紙おむつ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　紙コップ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　紙コップ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　紙ねんど</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　紙ねんど,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　紙パック　（５００ｍｌ以上の牛乳やジュース）</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　開いて、すすいで、乾かして、市内各拠点の設置してある、回収ボックスに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　紙パック　（５００ｍｌ以上の牛乳やジュース）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　紙パック　（上記以外）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　紙パック　（上記以外）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カメラ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　カメラ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　カラーボックス</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　カラーボックス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　ガラスくず　（破片）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ガラスくず　（破片）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　ガラスコップ、ガラス食器類</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ガラスコップ、ガラス食器類,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　ガラス戸</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ガラス戸,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　革靴</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　安全靴やスパイクは燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　革靴,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　革ジャンパー</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　革ジャンパー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　瓦</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　瓦,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　換気扇</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　換気扇,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　缶切り</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　缶切り,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　乾燥機　（食器　・　布団）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　乾燥機　（食器　・　布団）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　乾燥剤</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　乾燥剤,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　かんづめ缶</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　すすいで、なるべくつぶして出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　かんづめ缶,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　乾電池　（一般のもの）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　有害物を含むものや充電式電池はお店のリサイクルボックスに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　乾電池　（一般のもの）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　感熱紙</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　感熱紙,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　缶ビール　・　缶ジュース</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　すすいで、なるべくつぶして出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　缶ビール　・　缶ジュース,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　玩具　（木　・　プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　玩具　（木　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>か</on>
+		<name>　玩具　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　玩具　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　キーホルダー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　キーホルダー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　木くず</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　木くず,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　ギター</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ギター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　脚立</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　脚立,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　キャビネット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　キャビネット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　牛乳パック　（５００ｍｌ以上）</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　開いて、すすいで、乾かして、市内各拠点の設置してある、回収ボックスに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　牛乳パック　（５００ｍｌ以上）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　牛乳パック　（５００ｍｌ未満）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　牛乳パック　（５００ｍｌ未満）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　きゅうす</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　きゅうす,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　鏡台</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　鏡台,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　金庫　（業務用　・　大型の物）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　金庫　（業務用　・　大型の物）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　金庫　（家庭用の手提げ式）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　金庫　（家庭用の手提げ式）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　金属キャップ　（ふた）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　金属キャップ　（ふた）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　金属バット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　金属バット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>き</on>
+		<name>　教科書</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　教科書,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　車いす</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　車いす,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　クーラーボックス</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　クーラーボックス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　クーラー　（エアコン）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　家電リサイクル法対象品目です、家電小売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　クーラー　（エアコン）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　空気清浄機</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る、なるべく販売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　空気清浄機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　釘</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　釘,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　草花</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　草花,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　草刈り機　（モーター一式）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　草刈り機　（モーター一式）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　草刈り機　（エンジンー式）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　草刈り機　（エンジンー式）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　くし　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　くし　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　串　（竹製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　串　（竹製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　薬の袋　（紙）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　薬の袋　（紙）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　薬の袋　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身は取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　薬の袋　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　薬の容器　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身は取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　薬の容器　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　薬の容器　（ガラス製）</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　中をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　薬の容器　（ガラス製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　口紅　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　口紅　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　くつ　（靴）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　安全靴やスパイクは燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　くつ　（靴）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　くつした　・　ストッキング</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　まとめて透明袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　くつした　・　ストッキング,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　クッション</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　クッション,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　クリーニングハンガ　（針金）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　クリーニングハンガ　（針金）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　クリスマスツリー　（木）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　クリスマスツリー　（木）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　クレヨン　・　クレパス</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　クレヨン　・　クレパス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　グローランプ</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　グローランプ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　グローブ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　グローブ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>く</on>
+		<name>　軍手</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　軍手,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　蛍光灯　（蛍光管）</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　蛍光灯　（蛍光管）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　蛍光灯　（本体）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　蛍光灯　（本体）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　携帯電話　（付属品含む）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る、なるべく販売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　携帯電話　（付属品含む）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　毛糸</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　毛糸,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　計量はかり　（料理用）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　計量はかり　（料理用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　化粧品容器</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身は取り除いて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　化粧品容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　化粧品びん</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　その他の色びんで出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　化粧品びん,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　ゲーム機本体</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ゲーム機本体,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　ゲームソフト</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ゲームソフト,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　下駄箱</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　下駄箱,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　下駄　（げた）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　下駄　（げた）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　ケチャップ容器</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ケチャップ容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　玄関マット</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　玄関マット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　けんざん　（剣山）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　けんざん　（剣山）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>け</on>
+		<name>　建築廃材</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　建築廃材,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　コードリール</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　コードリール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　ゴーグル</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ゴーグル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　小型電気製品　（家電リサイクル対象品目を除く）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す。なるべく買い換えなどの際は販売店に引き取ってもらう</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　小型電気製品　（家電リサイクル対象品目を除く）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　黒板　（木製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す。長さ１ｍを超えるものは自己搬入する</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　黒板　（木製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　ござ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ござ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　こたつ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　こたつ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　こたつの電熱器具</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　こたつの電熱器具,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　こたつ板</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　こたつ板,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　こたつの掛け敷き布団</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　こたつの掛け敷き布団,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　コップ　（紙　・　プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　コップ　（紙　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　コップ　（ガラス　・　金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　コップ　（ガラス　・　金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　粉ミルクの缶</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　粉ミルクの缶,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　ゴム手袋</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ゴム手袋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　米びつ缶　（家庭用）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　米びつ缶　（家庭用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　ゴルフクラブ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>１セットまとめて、ひもで縛り、粗大ごみ処理券を貼って出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ゴルフクラブ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　ゴルフバッグ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ゴルフバッグ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　ゴルフマット</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ゴルフマット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　ゴルフボール</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ゴルフボール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　コンクリート</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　コンクリート,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>か</gyou>
+		<on>こ</on>
+		<name>　コンプレッサー</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　コンプレッサー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　サーフボード</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　サーフボード,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　サイドボード</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　粗大ごみ処理券を貼って出す。長さ１ｍ・幅１ｍを超えるものは、自己搬入する</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　サイドボード,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　座椅子　（スプリングなし）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　座椅子　（スプリングなし）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　座椅子　（スプリング付き）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　座椅子　（スプリング付き）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　酒パック</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　酒パック,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　酒びん</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　キャップをはずし、すすいで出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　酒びん,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　座卓</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　座卓,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　雑誌類</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　付属のＣＤ　・　ＤＶＤは取り除いて資源ごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　雑誌類,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　座布団</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　座布団,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　皿　（陶磁器製）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　紙　・プラスチック製は、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　皿　（陶磁器製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　ざる類　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ざる類　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　サングラス</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　サングラス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　サンダル</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　サンダル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　三輪車</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　三輪車,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>さ</on>
+		<name>　残飯</name>
+		<kubun>生ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　残飯,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ＣＤディスク</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ＣＤディスク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ＣＤラジカセ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ＣＤラジカセ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　敷物　・　じゅうたん</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　敷物　・　じゅうたん,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　辞典　・　辞典</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　辞典　・　辞典,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　下着類</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　まとめて指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　下着類,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　湿布薬</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　湿布薬,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　自転車</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　粗大ごみ処理券を貼って燃えないごみに出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　自転車,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　自動車および部品</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　自動車および部品,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　自動販売機</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　自動販売機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　竹刀</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　竹刀,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　芝刈機　（家庭用モーター式）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　粗大ごみ処理券を貼つて出す。長さ１ｍ・幅１ｍを超えるものは、自己搬入する</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　芝刈機　（家庭用モーター式）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　芝刈機　（家庭用エンジン式）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　芝刈機　（家庭用エンジン式）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　しゃもじ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　しゃもじ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　シャープペンシル　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　シャープペンシル　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　シャンプー容器</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　シャンプー容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　シューズケース</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金具ははずして燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　シューズケース,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ジュース缶</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　すすいで、なるべくつぶして出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ジュース缶,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ジュースびん</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　軽く水洗いして出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ジュースびん,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ジューサ　（ミキサー）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ジューサ　（ミキサー）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　シーツ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　厚手のものは、小さく切って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　シーツ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ジュースのキャップ　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ジュースのキャップ　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ジュースのキャップ　（金属製））</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ジュースのキャップ　（金属製））,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　収納ケース　（プラスチック製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　中にごみ等は入れない</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　収納ケース　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　瞬間湯沸器　（台所用）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　瞬間湯沸器　（台所用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　消火器　（金属製）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　消火器　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　ジョウロ　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製のものは、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ジョウロ　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　食品トレー</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　食品トレー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　食器乾燥器</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　食器乾燥器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　食用油　（廃食用油）</name>
+		<kubun>拠点回収</kubun>
+		<zyouken>　ボトルのまま青色コンテナに出す　（拠点回収）</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　食用油　（廃食用油）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　除湿器</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　除湿器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　除湿剤</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　除湿剤,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　照明器具</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　照明器具,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　障子戸</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　障子戸,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　浄水器</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　浄水器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　食器　（瀬戸物）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　食器　（瀬戸物）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　食器棚</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　食器棚,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　食器乾燥機</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　食器乾燥機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　充電式電池</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　充電式電池,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　定規　（木　・　プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製のものは、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　定規　（木　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>し</on>
+		<name>　新聞紙</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　新聞紙,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　水槽　（プラスチック製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　水槽　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　水槽　（ガラス製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　水槽　（ガラス製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　水等　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製のものは、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　水等　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　水道蛇口</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　水道蛇口,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　水道ポンプ</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　水道ポンプ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　炊飯器</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　炊飯器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スーツ</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　まとめて透明袋に入れる</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　スーツ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スーツケース</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　指定ごみ袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　スーツケース,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スキャナー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　スキャナー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スキ板　・　スキーストック</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　スキ板　・　スキーストック,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スケートボード</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　スケートボード,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スコップ　（金属製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　スコップ　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　硯　（すずり）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　硯　（すずり）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スタンプ台　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製のものは、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　スタンプ台　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　すだれ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　すだれ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スチール整理棚</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　スチール整理棚,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　ステレオセット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ステレオセット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　ステンレスパイプ棚</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ステンレスパイプ棚,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　ストーブ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　燃料は必ず抜いておく</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ストーブ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　ストッキング</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　まとめて透明袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ストッキング,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　すのこ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　すのこ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スパイク</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　スパイク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スパナ　（工具）　</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　スパナ　（工具）　,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スピーカー</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　粗大ごみ処理券を貼って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　スピーカー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スプーン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　スプーン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スプレー缶　（殺中剤　・　消臭　・塗料等含む）</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　必ず使いきり穴を開けて出す。　プラスチック部品ははずす</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　スプレー缶　（殺中剤　・　消臭　・塗料等含む）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スプリングマットレス</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　スプリングマットレス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　滑り台　（玩具）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　滑り台　（玩具）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スポンジ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　スポンジ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　ズボンプレッサー</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ズボンプレッサー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スリッパ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　スリッパ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>す</on>
+		<name>　スレート　（石膏ボード）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　スレート　（石膏ボード）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　精米器　（家庭用）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　精米器　（家庭用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　石油ストーブ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　石油ストーブ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　石油ポンプ　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　石油ポンプ　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　せっけん</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　せっけん,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　背広</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　背広,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　石膏ボード</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　石膏ボード,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　ゼリーの容器</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ゼリーの容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　扇風機</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　扇風機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　栓抜き</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　栓抜き,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　溶剤用機　（紙製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　溶剤用機　（紙製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　溶剤用機　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　溶剤用機　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　洗濯機</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　家電リサイクル法対象品目です、家電小売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　洗濯機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　洗濯ばさみ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　洗濯ばさみ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　洗濯物干し台の台座　（コンクリート製）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　洗濯物干し台の台座　（コンクリート製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　洗面器　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　洗面器　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　洗面器　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　洗面器　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>せ</on>
+		<name>　洗面化粧台</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　洗面化粧台,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>そ</on>
+		<name>　造花　（ワイヤー入り）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　造花　（ワイヤー入り）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>そ</on>
+		<name>　ソースの容器　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ソースの容器　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>そ</on>
+		<name>　ソースの容器　（ガラス製）</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ソースの容器　（ガラス製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>そ</on>
+		<name>　そり　（子供用玩具）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　そり　（子供用玩具）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>そ</on>
+		<name>　掃除機</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す　ホースは３０ｃｍ以内に切る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　掃除機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>さ</gyou>
+		<on>そ</on>
+		<name>　ソファー</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ソファー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　体温計</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　体温計,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　体温計　（水銀使用）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　体温計　（水銀使用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　体重計</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　体重計,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　タイル　（少量）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　タイル　（少量）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　タイヤ　・　タイヤホイール</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　タイヤ　・　タイヤホイール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　太陽熱温水器</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　太陽熱温水器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　タオルケット</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　まとめて透明袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　タオルケット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　タキロン　（プラスチック製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　タキロン　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　卓上ミシン</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　卓上ミシン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　竹類</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　長さ２ｍ以内で直径１０ｃｍ以下のもので自己搬入する</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　竹類,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　たけのこの皮</name>
+		<kubun>生ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　たけのこの皮,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　畳</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　畳,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　卓球台　（板のみ）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　卓球台　（板のみ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　タッパー</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　タッパー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　脱臭剤</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　脱臭剤,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　建具</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　建具,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　たばこの外装フィルム</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　たばこの外装フィルム,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　たばこの空き箱</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　たばこの空き箱,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　たまごパック</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　たまごパック,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　たれの容器　（ガラス製）</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　たれの容器　（ガラス製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　たれの容器　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　たれの容器　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　たわし</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　たわし,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　単車　（バイク）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　単車　（バイク）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　タンス</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　タンス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　タンバリン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　タンバリン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>た</on>
+		<name>　段ボール</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　段ボール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　チャイルドシート</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　チャイルドシート,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　茶殻</name>
+		<kubun>生ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　茶殻,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　茶碗　（陶磁器製）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製のものは、燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　茶碗　（陶磁器製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　チェーン</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　チェーン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　チラシ</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　チラシ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　チャッカマン</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　中身を使いきって出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　チャッカマン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　ちり紙</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ちり紙,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　チューブ　（調味料等）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　チューブ　（調味料等）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>ち</on>
+		<name>　ちょうちん　（骨組みワイヤー）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ちょうちん　（骨組みワイヤー）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　杖</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　杖,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　使い捨てカイロ　（布製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　使い捨てカイロ　（布製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　使い捨てライター</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　必ず使い切って燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　使い捨てライター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　机</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　机,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　壺　（つぼ）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　指定袋に入らないものは、粗大ごみ処理券を貼つて出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　壺　（つぼ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　積み木　（木製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　積み木　（木製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　つま楊枝</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　つま楊枝,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　つめ切り</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　つめ切り,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　詰め替え用容器</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　詰め替え用容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　釣り糸</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　釣り糸,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　釣リール</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　釣リール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>つ</on>
+		<name>　釣竿</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　釣竿,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　ＤＶＤディスク</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ＤＶＤディスク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　ＤＶＤプレーヤー・レコーダー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ＤＶＤプレーヤー・レコーダー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　Ｔシャツ</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　まとめて透明袋に入れる</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　Ｔシャツ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　ティッシュペーパー</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ティッシュペーパー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　ティッシュ箱</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ティッシュ箱,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　手提げ金庫</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　手提げ金庫,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　鉄板　・　鉄線　・　鉄筋</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　鉄板　・　鉄線　・　鉄筋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　テーブル</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　テーブル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　デスクマット</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　デスクマット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　手袋</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　手袋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　テレビ</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　家電リサイクル法対象品目です、家電小売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　テレビ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　テレビ台</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　テレビ台,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気アンカ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気アンカ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気温水器</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気温水器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気カーペット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気カーペット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気カミソリ　（シェーバー）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気カミソリ　（シェーバー）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気こたつ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　電気こたつ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気スタンド</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気スタンド,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気コード</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気コード,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気ストーブ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気ストーブ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気ポット</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電気ポット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電気毛布</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　電気毛布,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電球　・　蛍光灯</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　電球　・　蛍光灯,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電子レンジ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　電子レンジ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　電話機　（携帯電話を含む）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　なるべく販売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　電話機　（携帯電話を含む）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　天体望遠鏡</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　天体望遠鏡,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　テント　（ビニール製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　テント　（ビニール製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>て</on>
+		<name>　テント　（支柱）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　テント　（支柱）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　土砂　（ペット用含む）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　土砂　（ペット用含む）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　砥石</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　砥石,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　陶磁器類</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　陶磁器類,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　トイレコーナー　（プラステック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　トイレコーナー　（プラステック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　豆腐のカップ</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　豆腐のカップ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　トースター</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　トースター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　時計</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　時計,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　戸棚</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　戸棚,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　トタン類</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　トタン類,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　土鍋</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　土鍋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　ドライバー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ドライバー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　ドライヤー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ドライヤー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　ドラム缶</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ドラム缶,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　鳥かご</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　鳥かご,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　トレー　（黒色以外）</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　トレー　（黒色以外）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　トレー　（黒色）</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　トレー　（黒色）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　ドレッシングの容器　（ガラス製）</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ドレッシングの容器　（ガラス製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　ドレッシングの容器　</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ドレッシングの容器　,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>た</gyou>
+		<on>と</on>
+		<name>　トロフィー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　トロフィー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>な</on>
+		<name>　ナイフ</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　紙などに包んで出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ナイフ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>な</on>
+		<name>　長靴</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　長靴,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>な</on>
+		<name>　流し台</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　流し台,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>な</on>
+		<name>　波板　（プラスチック製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　波板　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>な</on>
+		<name>　波板　（金属　・　石膏ボード）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　波板　（金属　・　石膏ボード）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>な</on>
+		<name>　生木　（幹）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　直径１０ｃｍ以下のものを枝・葉は落とし長さ１ｍ以下にして自己搬入する</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　生木　（幹）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>な</on>
+		<name>　鍋</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　鍋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>に</on>
+		<name>　ニッカド電池　（充電式）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ニッカド電池　（充電式）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>に</on>
+		<name>　荷造りひも</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　荷造りひも,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>に</on>
+		<name>　人形　（鉄製　・　プラスチック製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　人形　（鉄製　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>に</on>
+		<name>　人形　（布　・　紙　・　木製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　人形　（布　・　紙　・　木製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ぬ</on>
+		<name>　ぬいぐるみ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ぬいぐるみ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ぬ</on>
+		<name>　縫い針</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋から突き出さないように箱等に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　縫い針,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ぬ</on>
+		<name>　布くず</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　布くず,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ね</on>
+		<name>　ネジ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ネジ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ね</on>
+		<name>　ネガ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ネガ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ね</on>
+		<name>　寝袋</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　寝袋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ね</on>
+		<name>　猫のトイレ用砂</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　猫のトイレ用砂,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ね</on>
+		<name>　ネット　（果物用）</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ネット　（果物用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>ね</on>
+		<name>　粘土　（油粘土　・　紙粘土）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　粘土　（油粘土　・　紙粘土）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>の</on>
+		<name>　ノートパソコン</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　パソコンリサイクル対象品目です　販売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ノートパソコン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>の</on>
+		<name>　農業用機械</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　農業用機械,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>の</on>
+		<name>　農業用ハウスパイプ</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　農業用ハウスパイプ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>の</on>
+		<name>　農業用ビニール</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　農業用ビニール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>の</on>
+		<name>　農薬ビン</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　農薬ビン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>な</gyou>
+		<on>の</on>
+		<name>　のこぎり</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　紙などに包んで出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　のこぎり,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　廃棄木材</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　直径１５ｃｍ角　長さ１ｍ以下にして自己搬入する</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　廃棄木材,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　ハーモニカ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ハーモニカ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　灰</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　灰,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　灰皿</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　灰皿,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　パイプ　（塩ビ　・　鉄製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　パイプ　（塩ビ　・　鉄製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　パイプ椅子　・　ベッド）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　パイプ椅子　・　ベッド）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　はがき</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　はがき,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　花火</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　水でぬらして出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　花火,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　バケツ　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製のものは、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　バケツ　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　はさみ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　はさみ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　ハシゴ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ハシゴ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　パソコン　（本体　・　ディスプレイ）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　パソコン　（本体　・　ディスプレイ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　パソコン周辺機器　（標準付属以外）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　パソコン周辺機器　（標準付属以外）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　パソコンラツク</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　パソコンラツク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　パチンコ台　・　パチスロ台</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　パチンコ台　・　パチスロ台,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　バッテリー</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　バッテリー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　バッグ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　バッグ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　バット　（木　・　金属製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　バット　（木　・　金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　発電機</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　発電機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　発砲スチロール</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　中身をきれいに洗って出す　汚れの落ちない物は指定袋に入れて燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　発砲スチロール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　歯ブラシ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　歯ブラシ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　歯ブラシ　（電動式）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　歯ブラシ　（電動式）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　歯磨き粉チューブ</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　歯磨き粉チューブ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　刃物</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　刃物,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　針　・　針金</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋から突き出さないように箱等に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　針　・　針金,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　ハロゲンヒータ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ハロゲンヒータ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　ハンガー　（金属なし）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ハンガー　（金属なし）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　ハンガー　（針金製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ハンガー　（針金製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　はんこ　（象牙　・　プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　ガラス・金属製は、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　はんこ　（象牙　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　ハンマー</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ハンマー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>は</on>
+		<name>　ハンドマイク</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ハンドマイク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ピアノ</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　販売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ピアノ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ヒゲソリ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ヒゲソリ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ピーチパラソル</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ピーチパラソル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ビニールカッパ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　リサイクルできません</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ビニールカッパ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ビニールシート</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ビニールシート,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ビニールテーブルクロス</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ビニールテーブルクロス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ビニールホース</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　３０ｃｍ程度に切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ビニールホース,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ビデオカメラ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ビデオカメラ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ビデオデッキ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ビデオデッキ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　ビデオテープ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ビデオテープ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　火鉢</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　火鉢,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　びん　（栄養ドリンク、一升びん、ビールびん、油びん、焼肉のたれ）</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　中をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　びん　（栄養ドリンク、一升びん、ビールびん、油びん、焼肉のたれ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　びん　（化粧びん　・　ワンカップ）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　びん　（化粧びん　・　ワンカップ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　びんのフタ　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　びんのフタ　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ひ</on>
+		<name>　びんのフタ　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　びんのフタ　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ファンヒーター</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　必ず燃料は抜いて出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ファンヒーター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ファックス　（本体）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ファックス　（本体）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　フィルム　（ネガ）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　フィルム　（ネガ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　フィルム　（金属付き）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　フィルム　（金属付き）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　封筒</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　封筒,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　風鈴</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　風鈴,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　フォーク</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製の物は燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　フォーク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ふすま</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ふすま,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　布団</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　布団,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　布団乾燥機</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　布団乾燥機,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ふた　（プラスチック製）</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ふた　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ふた　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ふた　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　筆</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　筆,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ブラインド</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ブラインド,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　フライパン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　フライパン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　フラワーポット　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　陶磁器製・金属製のものは燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　フラワーポット　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ぶら下がり健康器</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ぶら下がり健康器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ブランコ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ブランコ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　プランター　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　プランター　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　プリンター</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　プリンター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ブルーシート　（ハイキング用）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　家庭から出るものに限る、小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ブルーシート　（ハイキング用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　プレーヤー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　プレーヤー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　風呂釜</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　風呂釜,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　プロジェクター</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　プロジェクター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　風呂ふた</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　指定袋に入らないものは粗大ごみ処理券を貼って出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　風呂ふた,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　風呂マット</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　風呂マット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　ブロック</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ブロック,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　フロッピーディスク</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　フロッピーディスク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ふ</on>
+		<name>　文鎮</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　文鎮,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ヘアーブラシ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ヘアーブラシ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ベッド</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ベッド,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ペット小屋</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ペット小屋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ペットボトル</name>
+		<kubun>資源ごみ</kubun>
+		<zyouken>　キャップ及びラベルをはずし、すすいで、なるべくつぶして出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ペットボトル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ペットボトルのキャップ</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ペットボトルのキャップ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ペットボトルのラベル</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ペットボトルのラベル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ベビーベット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ベビーベット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ベルト</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　バックルははずして、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ベルト,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ヘルスメーター</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋に入らないものは粗大ごみ処理券を貼って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ヘルスメーター,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ヘルメット</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ヘルメット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　弁当の容器</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　弁当の容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　ペンチ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ペンチ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>へ</on>
+		<name>　便器　（陶器）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　便器　（陶器）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ほうき</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　指定袋に入らないものは粗大ごみ処理券を貼って出す</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ほうき,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　帽子</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　帽子,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　包装紙</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　包装紙,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　包丁</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　指定袋から突きでないよう紙等に包んで出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　包丁,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　包丁研ぎ器</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　包丁研ぎ器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ボイラー</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ボイラー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ボウル　（料理用　・　プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ボウル　（料理用　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　歩行器　（幼児用）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　歩行器　（幼児用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ボタン電池</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　電池交換時に販売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ボタン電池,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ポット　（魔法瓶）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ポット　（魔法瓶）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ホットカーペット</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ホットカーペット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ホットプレート</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ホットプレート,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　哺乳瓶　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　ガラス製のものは燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　哺乳瓶　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ポリ容器</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ポリ容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ポリバケツ</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ポリバケツ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ボウリングボウール</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ボウリングボウール,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ボール　（野球ボール等）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ボール　（野球ボール等）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ホース　（ビニール製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　３０ｃｍ程度に切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ホース　（ビニール製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ボールペーン</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ボールペーン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　保冷剤</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　保冷剤,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ホーロー鍋</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ホーロー鍋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　ホーロー製流し台</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ホーロー製流し台,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　本</name>
+		<kubun>資源ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　本,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>は</gyou>
+		<on>ほ</on>
+		<name>　本棚　（木製　・　スチール製）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　本棚　（木製　・　スチール製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マイク</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　マイク,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マウス　（パソコン用）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　マウス　（パソコン用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マグネット</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　マグネット,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　枕</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　枕,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マジック</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　プラスチック製のものは燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　マジック,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　麻雀パイ　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　麻雀パイ　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　麻雀卓</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　麻雀卓,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　窓ガラス　（板ガラス）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　窓ガラス　（板ガラス）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　巻き尺　（スチール製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　巻き尺　（スチール製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マッサージ機　（いす型）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　マッサージ機　（いす型）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　ミキサー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ミキサー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マッサージ機　（手持ち型等）</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　マッサージ機　（手持ち型等）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マット　（体操用）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　マット　（体操用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マットレス</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　マットレス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　まな板</name>
+		<kubun>燃えないごみ</kubun>
+		<zyouken>　燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　まな板,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>ま</on>
+		<name>　マヨネーズ容器</name>
+		<kubun>廃プラスチック</kubun>
+		<zyouken>　プラ　マークの付いているもの、中身をきれいに洗って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　マヨネーズ容器,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>み</on>
+		<name>　ミシン</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ミシン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>み</on>
+		<name>　耳かき　（木　・プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　耳かき　（木　・プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>む</on>
+		<name>　虫かご　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金属製は、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　虫かご　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>む</on>
+		<name>　虫めがね</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　虫めがね,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>む</on>
+		<name>　蒸し器　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　蒸し器　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>む</on>
+		<name>　むしろ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　むしろ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>め</on>
+		<name>　めがね</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　めがね,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>め</on>
+		<name>　目ざまし時計</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　目ざまし時計,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>め</on>
+		<name>　綿棒</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　綿棒,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>め</on>
+		<name>　メジャー　（洋裁用）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　メジャー　（洋裁用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>め</on>
+		<name>　綿　・　綿入れ製品</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　小さく切って指定袋に入れて出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　綿　・　綿入れ製品,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　毛布</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　毛布,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　木製家具　・　調度品</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　木製家具　・　調度品,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　餅つき器　（家庭用）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　餅つき器　（家庭用）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　モップ　（金属柄付きモップ）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　モップ　（金属柄付きモップ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　物置</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　物置,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　物干し　（プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　物干し　（プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　物干し　（たこ足金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　物干し　（たこ足金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　物干し竿</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　物干し竿,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ま</gyou>
+		<on>も</on>
+		<name>　物干し台の台座　（石製）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　物干し台の台座　（石製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>や</on>
+		<name>　やかん</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　やかん,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>や</on>
+		<name>　焼き物　（陶器製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　焼き物　（陶器製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>や</on>
+		<name>　野菜くず</name>
+		<kubun>生ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　野菜くず,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>ゆ</on>
+		<name>　湯たんぽ　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　湯たんぽ　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>ゆ</on>
+		<name>　湯呑み茶碗</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　湯呑み茶碗,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>ゆ</on>
+		<name>　湯沸かし器　（台所用を除く）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　湯沸かし器　（台所用を除く）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>よ</on>
+		<name>　浴槽</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　浴槽,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>よ</on>
+		<name>　浴槽のふた</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　浴槽のふた,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>や</gyou>
+		<on>よ</on>
+		<name>　洋服ダンス</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　洋服ダンス,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ライサー　（米びつ）</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui>長さ：1m・幅1m以内のものは，粗大ごみ処理券を貼って，燃えないごみとして出せます。</bunrui>
+		<keyword>　ライサー　（米びつ）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ライター　（使捨て　・　プラスチック製）</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　必ず使い切って燃えるごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ライター　（使捨て　・　プラスチック製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ラケット　（木製）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ラケット　（木製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ラケット　（金属製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ラケット　（金属製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ラジオ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ラジオ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ラジカセ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ラジカセ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ラジコン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ラジコン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ラップ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　金具ははずして、燃えないごみに出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ラップ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ランドセル</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ランドセル,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ら</on>
+		<name>　ランチジャー</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ランチジャー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>り</on>
+		<name>　リコーダー　（笛）</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　リコーダー　（笛）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>り</on>
+		<name>　リモコン</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　リモコン,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>り</on>
+		<name>　リュックサック</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　リュックサック,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>り</on>
+		<name>　料理くず</name>
+		<kubun>生ごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　料理くず,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>る</on>
+		<name>　ルームランナー</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ルームランナー,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>れ</on>
+		<name>　冷暖房器具　（エアコン）</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　家電リサイクル法対象品目、家電小売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　冷暖房器具　（エアコン）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>れ</on>
+		<name>　冷蔵庫　・　冷凍庫</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<zyouken>　家電リサイクル法対象品目、家電小売店に引き取ってもらう</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　冷蔵庫　・　冷凍庫,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>れ</on>
+		<name>　レコード盤</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　レコード盤,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>れ</on>
+		<name>　レジ袋</name>
+		<kubun>廃プラスチック</kubun>
+		<bunrui> </bunrui>
+		<keyword>　レジ袋,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>れ</on>
+		<name>　レンガ</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　レンガ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>れ</on>
+		<name>　レンジ　（ガス　・電気）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　レンジ　（ガス　・電気）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>れ</on>
+		<name>　レンズ　（ガラス製）</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　レンズ　（ガラス製）,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ろ</on>
+		<name>　ろうそく</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ろうそく,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ろ</on>
+		<name>　ローボード</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ローボード,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ろ</on>
+		<name>　ロッキングチェア</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ロッキングチェア,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ろ</on>
+		<name>　ロッカ</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<zyouken>　家庭から出るものに限る</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ロッカ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ろ</on>
+		<name>　ロープ</name>
+		<kubun>燃えるごみ</kubun>
+		<zyouken>　３０ｃｍ以内に切って出す</zyouken>
+		<bunrui> </bunrui>
+		<keyword>　ロープ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ら</gyou>
+		<on>ろ</on>
+		<name>　ローラースケート</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ローラースケート,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>わ</gyou>
+		<on>わ</on>
+		<name>　ワープロ</name>
+		<kubun>燃えないごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ワープロ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>わ</gyou>
+		<on>わ</on>
+		<name>　割りばし</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　割りばし,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>わ</gyou>
+		<on>わ</on>
+		<name>　輪ゴム</name>
+		<kubun>燃えるごみ</kubun>
+		<bunrui> </bunrui>
+		<keyword>　輪ゴム,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>わ</gyou>
+		<on>わ</on>
+		<name>　ワイヤーロープ</name>
+		<kubun>収集できません（排出禁止物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　ワイヤーロープ,</keyword>
+	</gomi>
+	<gomi>
+		<gyou>わ</gyou>
+		<on>わ</on>
+		<name>　和ダンス</name>
+		<kubun>収集できません（自己搬入物）</kubun>
+		<bunrui> </bunrui>
+		<keyword>　和ダンス,</keyword>
+	</gomi>
+</dataroot>

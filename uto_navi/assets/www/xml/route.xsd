@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="route">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="entry" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="entry">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="latitude"/>
+        <xsd:element ref="longitude"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element name="latitude" type="xsd:integer"/>
+  <xsd:element name="longitude" type="xsd:integer"/>
+</xsd:schema>
